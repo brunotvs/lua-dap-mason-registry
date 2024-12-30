@@ -1,5 +1,5 @@
 name: local-lua-debugger
-description: A simple Lua debugger which requires no additional dependencies.
+description: A simple Lua debugger adapter which requires no additional dependencies.
 homepage: https://github.com/tomblind/local-lua-debugger-vscode
 licenses:
   - MIT
