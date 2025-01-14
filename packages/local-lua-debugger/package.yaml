@@ -1,7 +1,7 @@
 ---
 name: local-lua-debugger
 description: A simple Lua debugger adapter which requires no additional dependencies.
-homepage: https://github.com/tomblind/local-lua-debugger-vscode
+homepage: https://github.com/Ismoh/local-lua-debugger-vscode
 licenses:
   - MIT
 languages:
@@ -9,7 +9,7 @@ languages:
 categories:
   - DAP
 source:
-  id: pkg:github/tomblind/local-lua-debugger-vscode@master
+  id: pkg:github/Ismoh/local-lua-debugger-vscode@master
   build:
     run: |
       npm install
